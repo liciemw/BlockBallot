@@ -16,6 +16,7 @@
     "lite-server": "^2.6.1"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^2.5.0",
     "solc": "^0.4.25",
     "truffle": "^5.11.5",
     "web3": "^4.14.0"
